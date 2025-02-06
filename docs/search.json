@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "Lab1-ESS330-Render1-CM.html",
+    "href": "Lab1-ESS330-Render1-CM.html",
+    "title": "Lab1-QuartoPractice",
+    "section": "",
+    "text": "Text formatting\nitalic bold underline strikeout SMALL CAPS code superscript2 and subscript2\nHeadings"
+  },
+  {
+    "objectID": "Lab1-ESS330-Render1-CM.html#nd-level-header",
+    "href": "Lab1-ESS330-Render1-CM.html#nd-level-header",
+    "title": "Lab1-QuartoPractice",
+    "section": "2nd Level Header",
+    "text": "2nd Level Header\n\n3rd Level Header\nLists\n\nBulletted list item 1\nItem 2\n\nItem 2a\nItem 2b\n\n\n\nNumbered list item 1\nItem 2. The numbers are incemented automatically in the output.\n\nLinks and Images\nhttp://example.com\nlinked phrase\n1 Footnote\n\nHorizontal rule\n\nblock quote\n\n(Wickham et al. 2019) Citation"
+  },
+  {
+    "objectID": "Lab1-ESS330-Render1-CM.html#footnotes",
+    "href": "Lab1-ESS330-Render1-CM.html#footnotes",
+    "title": "Lab1-QuartoPractice",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nFootnote↩︎"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CamGit12.github.io",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  }
+]

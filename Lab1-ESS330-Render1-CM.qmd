@@ -1,0 +1,49 @@
+---
+title: "Lab1-QuartoPractice"
+author: "Cameron"
+bibliography: references.bib
+---
+
+**Text formatting**
+
+*italic* **bold** [underline]{.underline} ~~strikeout~~ [SMALL CAPS]{.smallcaps} `code` superscript^2^ and subscript~2~
+
+**Headings**
+
+# 1st Level Header
+
+## 2nd Level Header
+
+### 3rd Level Header
+
+**Lists**
+
+-   Bulletted list item 1
+
+-   Item 2
+
+    -   Item 2a
+
+    -   Item 2b
+
+1.  Numbered list item 1
+
+2.  Item 2. The numbers are incemented automatically in the output.
+
+**Links and Images**
+
+<http://example.com>
+
+[linked phrase](idk.com)
+
+[^1] Footnote
+
+[^1]: Footnote
+
+------------------------------------------------------------------------
+
+Horizontal rule
+
+> block quote
+
+[@wickham2019] Citation
