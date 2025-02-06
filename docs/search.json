@@ -68,5 +68,19 @@
     "title": "CV",
     "section": "On-Call Field Technician",
     "text": "On-Call Field Technician"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "In the Spring of 2025 I took a class Quantative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!"
+  },
+  {
+    "objectID": "Projects.html#building-a-project-website",
+    "href": "Projects.html#building-a-project-website",
+    "title": "Projects",
+    "section": "[Building a project website]()",
+    "text": "[Building a project website]()\n\nIn this assignment we built a static users site with Github Pages\nIncludes a github repo for access to all the code.\nLook at how high quality my work is!"
   }
 ]
