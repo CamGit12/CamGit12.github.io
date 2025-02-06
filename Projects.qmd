@@ -6,6 +6,6 @@ In the Spring of 2025 I took a class Quantative Reasoning class based **in** R. 
 
 ## \[Building a project website\]()
 
-- In this assignment we built a static users site with Github Pages
-- Includes a github repo **for** access to all the code.
-- Look at how high quality my work is!
+-   In this assignment we built a static users site with Github Pages
+-   Includes a github repo **for** access to all the code.
+-   Look at how high quality my work is!
