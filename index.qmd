@@ -1,5 +1,17 @@
 ---
-title: "CamGit12.github.io"
+title: "Cameron's Website"
+image: Cam.JPG
+about:
+  template: marquee
+  image-shape: rectangle
+  image-width: 10em
+  links:
+    - text: Linkedin
+      href: //https://www.linkedin.com/in/cmclaughlin12/
+    - text: Email
+      href: //Cam12@colostate.edu
+    - text: Research Information
+    - text: Warner College of Natural Resources
 ---
 
 This is a Quarto website.
