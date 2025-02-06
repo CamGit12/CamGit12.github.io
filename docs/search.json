@@ -25,13 +25,48 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to my first website! My name is Cameron McLaughlin, I am from Northern California and I am currently studying Ecology at Colorado State University in Fort Collins.\n\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Cameron’s Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "• Minor in Watershed Science • Minor in Spanish • University Honors Scholar"
+  },
+  {
+    "objectID": "CV.html#bachelor-of-science-in-ecosystem-science-and-sustainability",
+    "href": "CV.html#bachelor-of-science-in-ecosystem-science-and-sustainability",
+    "title": "CV",
+    "section": "",
+    "text": "• Minor in Watershed Science • Minor in Spanish • University Honors Scholar"
+  },
+  {
+    "objectID": "CV.html#ecological-field-crew",
+    "href": "CV.html#ecological-field-crew",
+    "title": "CV",
+    "section": "Ecological Field Crew",
+    "text": "Ecological Field Crew"
+  },
+  {
+    "objectID": "CV.html#analytical-laboratory-assistant",
+    "href": "CV.html#analytical-laboratory-assistant",
+    "title": "CV",
+    "section": "Analytical Laboratory Assistant",
+    "text": "Analytical Laboratory Assistant"
+  },
+  {
+    "objectID": "CV.html#on-call-field-technician",
+    "href": "CV.html#on-call-field-technician",
+    "title": "CV",
+    "section": "On-Call Field Technician",
+    "text": "On-Call Field Technician"
   }
 ]

@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-About this site
+-   Welcome to my first website! My name is Cameron McLaughlin, I am from Northern California and I am currently studying Ecology at Colorado State University in Fort Collins.
 
 ```{r}
 1 + 1
