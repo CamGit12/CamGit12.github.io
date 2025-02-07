@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "Lab1-ESS330-Render1-CM.html",
-    "href": "Lab1-ESS330-Render1-CM.html",
-    "title": "Lab1-QuartoPractice",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cameron’s Website",
     "section": "",
-    "text": "Text formatting\nitalic bold underline strikeout SMALL CAPS code superscript2 and subscript2\nHeadings"
-  },
-  {
-    "objectID": "Lab1-ESS330-Render1-CM.html#nd-level-header",
-    "href": "Lab1-ESS330-Render1-CM.html#nd-level-header",
-    "title": "Lab1-QuartoPractice",
-    "section": "2nd Level Header",
-    "text": "2nd Level Header\n\n3rd Level Header\nLists\n\nBulletted list item 1\nItem 2\n\nItem 2a\nItem 2b\n\n\n\nNumbered list item 1\nItem 2. The numbers are incemented automatically in the output.\n\nLinks and Images\nhttp://example.com\nlinked phrase\n1 Footnote\n\nHorizontal rule\n\nblock quote\n\n(Wickham et al. 2019) Citation"
-  },
-  {
-    "objectID": "Lab1-ESS330-Render1-CM.html#footnotes",
-    "href": "Lab1-ESS330-Render1-CM.html#footnotes",
-    "title": "Lab1-QuartoPractice",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nFootnote↩︎"
+    "text": "1 + 1\n\n[1] 2"
   },
   {
     "objectID": "about.html",
@@ -26,13 +12,6 @@
     "title": "About",
     "section": "",
     "text": "Welcome to my first website! My name is Cameron McLaughlin, I am from Northern California and I am currently studying Ecology at Colorado State University in Fort Collins.\n\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Cameron’s Website",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
   },
   {
     "objectID": "CV.html",
@@ -70,17 +49,24 @@
     "text": "On-Call Field Technician"
   },
   {
-    "objectID": "Projects.html",
-    "href": "Projects.html",
-    "title": "Projects",
+    "objectID": "Lab1-ESS330-Render1-CM.html",
+    "href": "Lab1-ESS330-Render1-CM.html",
+    "title": "Lab1-QuartoPractice",
     "section": "",
-    "text": "In the Spring of 2025 I took a class Quantative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!"
+    "text": "Text formatting\nitalic bold underline strikeout SMALL CAPS code superscript2 and subscript2\nHeadings"
   },
   {
-    "objectID": "Projects.html#building-a-project-website",
-    "href": "Projects.html#building-a-project-website",
-    "title": "Projects",
-    "section": "[Building a project website]()",
-    "text": "[Building a project website]()\n\nIn this assignment we built a static users site with Github Pages\nIncludes a github repo for access to all the code.\nLook at how high quality my work is!"
+    "objectID": "Lab1-ESS330-Render1-CM.html#nd-level-header",
+    "href": "Lab1-ESS330-Render1-CM.html#nd-level-header",
+    "title": "Lab1-QuartoPractice",
+    "section": "2nd Level Header",
+    "text": "2nd Level Header\n\n3rd Level Header\nLists\n\nBulletted list item 1\nItem 2\n\nItem 2a\nItem 2b\n\n\n\nNumbered list item 1\nItem 2. The numbers are incemented automatically in the output.\n\nLinks and Images\nhttp://example.com\nlinked phrase\n1 Footnote\n\nHorizontal rule\n\nblock quote\n\n(Wickham et al. 2019) Citation"
+  },
+  {
+    "objectID": "Lab1-ESS330-Render1-CM.html#footnotes",
+    "href": "Lab1-ESS330-Render1-CM.html#footnotes",
+    "title": "Lab1-QuartoPractice",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nFootnote↩︎"
   }
 ]
