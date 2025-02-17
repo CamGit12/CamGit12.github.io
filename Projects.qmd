@@ -2,6 +2,18 @@
 title: "Projects"
 ---
 
-![](Media/McLaughlinC_WR486_FinalPaper.pdf)
+## View and Download PDF
+
+<embed src="Media/McLaughlinC_WR486_FinalPaper.pdf" type="application/pdf" width="100%" height="600px">
+
+[📥 Download PDF](Media/McLaughlinC_WR486_FinalPaper.pdf){.btn .btn-primary}
 
 In the Summer of 2024 I participated in my Watershed Capstone course for my minor in Watershed Science. This is my final paper summarizing some of the most interesting concepts I learned.
+
+During this field practicum and discussed within this project I gained insights into:
+
+-   Agricultural water efficiency and application
+
+-   Municipal water facilities and management
+
+-   Reclamation and treatment facilities in Colorado
