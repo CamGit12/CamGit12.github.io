@@ -2,5 +2,6 @@
 title: "About"
 ---
 
--   Welcome to my first website! My name is Cameron McLaughlin, I am from Northern California and I am currently studying Ecology at Colorado State University in Fort Collins.
--   I am an emerging ecologist with laboratory assistant and field technician experience in both ecological research and environmental consulting. Within my academic and extracurricular experiences, I look to explore my interests in ecological and hydrological sciences. My initial experiences within these fields include insight into Botany, Rangeland Ecology, Analytical Hydrology, Field Hydrological Sampling, and Wildlife and Recreational Surveying.
+Welcome to my first website! My name is Cameron McLaughlin, I am currently studying Ecology at Colorado State University in Fort Collins, graduating in May 2025.
+
+I am an emerging ecologist with laboratory assistant and field technician experience in both ecological research and environmental consulting. Within my academic and extracurricular experiences, I look to explore my interests in ecological and hydrological sciences. My initial experiences within these fields include insight into Botany, Rangeland Ecology, Analytical Hydrology, Field Hydrological Sampling, and Wildlife and Recreational Surveying.
