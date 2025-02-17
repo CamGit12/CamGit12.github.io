@@ -4,7 +4,7 @@ image: Cam.JPG
 about:
   template: marquee
   image-shape: rectangle
-  image-width: 10em
+  image-width: 20em
   links:
     - text: Linkedin
       href: "https://www.linkedin.com/in/cmclaughlin12/"
