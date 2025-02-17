@@ -14,4 +14,4 @@ about:
       href: "mailto:Cam12@colostate.edu"
 ---
 
-Welcome to my personal website. I am currently developing my data and information science skills, through my studies at Colorado State University as well as developing my abilities through this GitHub Page. This web page will be continuously updated with some of my projects and skills into the future!
+Welcome to my personal website! I'm an emerging ecologist with a passion for sustainability, hydrology, and field research. Here, you’ll find my projects, resume, and insights into my work. Feel free to connect with me!
