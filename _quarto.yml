@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Cameron McLaughlin"
-  favicon: ram.png
+  favicon: ram.ico
   navbar:
     left:
       - href: index.qmd
