@@ -2,7 +2,6 @@
 title: "Resume"
 ---
 
-
 ## Cameron McLaughlin - Updated 1/25
 
 <embed src="Media/McLaughlin.C_Resume.pdf" type="application/pdf" width="100%" height="600px">
