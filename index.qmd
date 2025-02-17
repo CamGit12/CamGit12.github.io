@@ -7,13 +7,9 @@ about:
   image-width: 10em
   links:
     - text: Linkedin
-      href: //https://www.linkedin.com/in/cmclaughlin12/
+      href: "https://www.linkedin.com/in/cmclaughlin12/"
+    - text: GitHub
+      href: "https://github.com/CamGit12"
     - text: Email
-      href: //Cam12@colostate.edu
-    - text: Research Information
-    - text: Warner College of Natural Resources
+      href: "mailto:Cam12@colostate.edu"
 ---
-
-```{r}
-1 + 1
-```

@@ -4,18 +4,25 @@ project:
 
 website:
   title: "CamGit12.github.io"
+  favicon: ram.png
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - CV.qmd
-      - Projects.qmd
+      - href: about.qmd
+        text: About
+      - href: CV.qmd
+        text: Resume
+      - href: Projects.qmd
+        text: Projects
+  page-footer:
+    left: "© 2025 Cameron McLaughlin"
+    right: "Built with [Quarto](https://quarto.org/)"
 
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: styles.scss
     toc: true
 
 editor: visual

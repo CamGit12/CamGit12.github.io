@@ -18,14 +18,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Welcome to my first website! My name is Cameron McLaughlin, I am from Northern California and I am currently studying Ecology at Colorado State University in Fort Collins.\n\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to my first website! My name is Cameron McLaughlin, I am from Northern California and I am currently studying Ecology at Colorado State University in Fort Collins.\nI am an emerging ecologist with laboratory assistant and field technician experience in both ecological research and environmental consulting. Within my academic and extracurricular experiences, I look to explore my interests in ecological and hydrological sciences. My initial experiences within these fields include insight into Botany, Rangeland Ecology, Analytical Hydrology, Field Hydrological Sampling, and Wildlife and Recreational Surveying."
   },
   {
     "objectID": "CV.html",
     "href": "CV.html",
     "title": "CV",
     "section": "",
-    "text": "• Minor in Watershed Science • Minor in Spanish • University Honors Scholar"
+    "text": "📥 Download PDF"
   },
   {
     "objectID": "CV.html#bachelor-of-science-in-ecosystem-science-and-sustainability",
@@ -89,5 +89,12 @@
     "title": "CV",
     "section": "",
     "text": "📥 Download PDF"
+  },
+  {
+    "objectID": "Projects.html#wr-440-practicum",
+    "href": "Projects.html#wr-440-practicum",
+    "title": "Projects",
+    "section": "",
+    "text": "📥 Download PDF\nIn the Summer of 2024 I participated in my Watershed Capstone course for my minor in Watershed Science. This is my final paper summarizing some of the most interesting concepts I learned.\nDuring this field practicum and discussed within this project I gained insights into:\n\nAgricultural water efficiency and application\nMunicipal water facilities and management\nReclamation and treatment facilities in Colorado"
   }
 ]
