@@ -17,3 +17,15 @@ During this field practicum and discussed within this project I gained insights 
 -   Municipal water facilities and management
 
 -   Reclamation and treatment facilities in Colorado
+
+    <embed src="Media/WR440Capstone_ProjectMap" type="application/png" width="100%" height="400px">
+
+    [📥 Download PNG](Media/WR440Capstone_ProjectMap.png){.btn .btn-primary}
+
+    In my final semester of my studies at Colorado State University, I have begun my Capstone project under my minor in Watershed Sciences. This project, focusing on the Elwha River Dam Removal Project, the largest dam removal in US history, will look into the efficacy and consequences of such large ecological restorations.
+
+    Objectives of my project include:
+
+    -   Utilize high-resolution aerial imagery pre & post removal to track above-dam and below-dam channel changes
+
+    -   Analyze peak stream flow associations with channel changes, utilizing a downstream USGS river gauge
