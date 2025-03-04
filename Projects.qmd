@@ -20,7 +20,7 @@ During this field practicum and discussed within this project I gained insights 
 
 ## WR 440 Capstone
 
-<img src="Media/WR440Capstone_ProjectMap.png" alt="Capstone Project Map" style="max-width: 100%; height: auto;"/> <a href="Media/WR440Capstone_ProjectMap.png" download class="btn btn-primary">📥 Download PNG</a>
+<img src="Media/WR440Capstone_ProjectMap.jpg" alt="Capstone Project Map" style="max-width: 100%; height: auto;"/> <a href="Media/WR440Capstone_ProjectMap.jpg" download class="btn btn-primary">📥 Download JPG</a>
 
 In my final semester of my studies at Colorado State University, I have begun my Capstone project under my minor in Watershed Sciences. This project, focusing on the Elwha River Dam Removal Project, the largest dam removal in US history, will look into the efficacy and consequences of such large ecological restorations.
 
