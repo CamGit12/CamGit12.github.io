@@ -29,3 +29,13 @@ Objectives of my project include:
 -   Utilize high-resolution aerial imagery pre & post removal to track above-dam and below-dam channel changes
 
 -   Analyze peak stream flow associations with channel changes, utilizing a downstream USGS river gauge
+
+## ESS 330 - COVID Analyses
+
+In this lab, we practiced or data analysis skills in working with US COVID data, analyzing cases and deaths. We also looked to analyze the data spatially, looking for patterns in the data when placing the data on a map.
+
+![Weighted Mean Center of US COVID Cases-February1st 2021](images/unnamed-chunk-10-1.png)
+
+[COVID Project Site](https://camgit12.github.io/ESS330_Lab3/)
+
+[COVID Project Repo](https://github.com/CamGit12/ESS330_Lab3)
