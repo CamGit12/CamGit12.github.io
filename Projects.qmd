@@ -34,7 +34,7 @@ Objectives of my project include:
 
 In this lab, we practiced or data analysis skills in working with US COVID data, analyzing cases and deaths. We also looked to analyze the data spatially, looking for patterns in the data when placing the data on a map. Here is an example of one of the figures I produced!
 
-![Weighted Mean Center of US COVID Cases-February1st 2021](images/unnamed-chunk-10-1.png)
+![](images/unnamed-chunk-10-1-01.png)
 
 [COVID Project Site](https://camgit12.github.io/ESS330_Lab3/)
 
